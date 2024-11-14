@@ -48,7 +48,6 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0034](https://github.com/user-attachments/assets/08a8f278-00e2-44d9-8420-a3fcf0586a7e)
 
 
  
@@ -66,7 +65,9 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0035](https://github.com/user-attachments/assets/dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9)
+![image](https://github.com/user-attachments/assets/9f551e12-f4fa-4217-89dd-a1dbbc0cf8a3)
+
+
 
 
 
@@ -81,7 +82,9 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0036](https://github.com/user-attachments/assets/02d259ca-3a61-46ae-bd0a-64d357310646)
+![image](https://github.com/user-attachments/assets/aac4e9c9-46d3-4c63-9e79-6f83d32542d3)
+
+![image](https://github.com/user-attachments/assets/16e98927-71da-4e25-84b0-8f32c1bd803a)
 
  
 Analog simulation by SPECTRE.
@@ -94,12 +97,24 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![IMG-20241019-WA0033](https://github.com/user-attachments/assets/3f603cf1-7394-4561-ae07-fbe55615e8be)
+
+![image](https://github.com/user-attachments/assets/3386e93b-a415-426d-9927-08beb7ef9a21)
+
+![image](https://github.com/user-attachments/assets/f2c1d15c-9233-4e34-82f5-e02dc4902d42)
+
+![image](https://github.com/user-attachments/assets/192fe95b-7680-4dec-9774-a488a1dfe9f6)
+
+![image](https://github.com/user-attachments/assets/faa70cd9-004b-470b-bbb1-9924da47fae6)
+
+![image](https://github.com/user-attachments/assets/6f4b9e7c-56c1-4793-beda-7df4800bfd3d)
+
 
 
 For Transient Analysis Settings and Output
- 
-![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
+
+![image](https://github.com/user-attachments/assets/bf122832-723f-4bff-9cc2-60f13fd0ccb3)
+
+![image](https://github.com/user-attachments/assets/0eae5188-c5e5-4525-bcbe-ac14303df3cd)
 
 
  
